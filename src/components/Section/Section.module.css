@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    padding: 20px;
+}
+.section {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(43, 97, 229, 0.76);
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.title {
+    color: rgb(245, 244, 242);
+    padding: 10px;
+}
